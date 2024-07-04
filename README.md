@@ -23,6 +23,11 @@ To create a snap-in version, run the following command:
 ```
 devrev snap_in_version create-one --manifest manifest.yaml --archive build.tar.gz | jq .
 ```
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/cd9a3bb0-cf15-42fa-bc59-b8b5764d96f6)
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/8634c3fd-3ee8-46a1-b0eb-21d087cdc04c)
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/f3afd13a-25a7-4141-90db-d478c66fcc89)
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/ccd3ad5b-b8f8-4726-845f-65d04ce49654)
+
 
 ## Step-5: Installing a snap-in from a snap-in version
 To create a snap-in from a snap-in version, run the following command:
