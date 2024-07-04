@@ -34,6 +34,7 @@ To create a snap-in from a snap-in version, run the following command:
 ```
 devrev snap_in draft
 ```
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/ed9f5997-cd36-46b4-aa23-1d5034ae74fd)
 
 ## Step-6: Configuring the snap-in
 The snap-in is installed in draft state. It may require some configuration before it can be deployed.
