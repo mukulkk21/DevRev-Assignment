@@ -15,7 +15,8 @@ devrev profiles authenticate -o mukundkushwaha -u <kushwahakk1234ab@gmail.com>
 
 # Step-3: Creating a snap-in package
 To create a snap-in package, run the following command:
-![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/740bbe91-b62b-41f3-a833-290e862415ca)
+![image](https://github.com/mukulkk21/DevRev-Assignment/assets/111633385/36ceefd0-6896-445f-b103-fbef0899141d)
+
 
 # Step-4: Creating a snap-in version
 To create a snap-in version, run the following command:
